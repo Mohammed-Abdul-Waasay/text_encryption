@@ -1,2 +1,2 @@
 # text_encryption
-simple code to encrypt/decrypt text entered by the user 
+simple python code to encrypt/decrypt text entered by the user 
